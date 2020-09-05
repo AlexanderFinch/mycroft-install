@@ -2,7 +2,7 @@
 
 ## Install for android studio
 
-1. isntall Android Studio 
+1. Install Android Studio 
    - goto developer.android.com/studio and click Download Android Studio
    - select virtual device for testing and install
    - Open Android studio and download components (if first time using Android studio)
